@@ -274,9 +274,6 @@ h6 {
   color: #070707;
 }
 
-.no-webp .intro .row .img{
-  background-image: url("../img/img-min.png"); }
-
 .intro .row .img {
   height: 390px;
   max-width: 940px;
@@ -284,6 +281,7 @@ h6 {
   margin-bottom: 120px;
   background-size: cover;
   background-position-y: -341px;
+  background-image: url("../img/img-min.png");
 }
 
 .intro h1 {
@@ -721,5 +719,3 @@ h2 {
     margin-top: 50px;
   }
 }
-
-webp .intro .row .img{ background-image: url(../img/img-min.webp); }
