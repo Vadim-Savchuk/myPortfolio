@@ -1,0 +1,22 @@
+@import '../../app/Wars.scss';
+
+.contacts {
+    padding: 114px 0px 129px;
+    text-align: center;
+
+    .contacts__info{
+        padding: 20px 0px 29px;
+    }
+
+    .contacts__button {
+        display: inline-block;
+        margin-bottom: 91px;
+    }
+
+    .contacts__list {
+        gap: 30px;
+        display: flex;
+        margin-top: 30px;
+        justify-content: center;
+    }
+}

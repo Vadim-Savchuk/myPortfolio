@@ -1,0 +1,17 @@
+@import '../../app/Wars.scss';
+
+.about {
+    margin: 0 auto;
+    max-width: 525px;
+    text-align: center;
+    padding-top: calc(clamp(0.313rem, -2.006rem + 11.59vw, 6.688rem));
+    padding-bottom: calc(clamp(0.313rem, -1.847rem + 10.8vw, 6.25rem));
+    // padding: 107px 0px 100px;
+
+    .abouth-text {
+        gap: 30px;
+        display: flex;
+        margin-top: 17px;
+        flex-direction: column;
+    }
+}

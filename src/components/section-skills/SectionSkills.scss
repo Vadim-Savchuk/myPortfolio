@@ -1,0 +1,23 @@
+@import '../../app/Wars.scss';
+
+.skills {
+    text-align: center;
+    padding: 90px 0px 110px;
+
+    .skills__info {
+        margin: 40px 0px 83px;
+    }
+
+    .skills__list {
+        gap: 60px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .dod-skills__title{
+        margin-top: calc(clamp(6.25rem, 4.432rem + 9.09vw, 11.25rem));
+        margin-bottom: 60px;
+        // margin: 180px 0px 60px;
+    }
+}
