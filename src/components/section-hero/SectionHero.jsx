@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 import './SectionHero.scss'
 
-import baner from './img/baner.png'
+import baner  from './img/baner.webp'
 
 function SectionHero() {
     return (
@@ -16,7 +16,7 @@ function SectionHero() {
                 </div>
             </div>
             <div className="hero__baner">
-                <img className="hero__baner-img" src={baner} alt="I am" />
+                <img rel="preload" className="hero__baner-img" src={baner} alt="I am" />
             </div>
         </section>
     );

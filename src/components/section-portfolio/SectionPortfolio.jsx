@@ -20,7 +20,7 @@ function SectionPortfolio() {
             </ul>
 
             <div className="all-work">
-                <Link className="all-works__link" to='/works'>All works</Link>
+                <Link className="all-works__link" to='/works' rel="preconnect">All works</Link>
                 <span>&gt;</span>
                 <span>&gt;</span>
             </div>

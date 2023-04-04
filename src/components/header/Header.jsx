@@ -18,10 +18,13 @@ function Header() {
 
     return (
         <header className="header">
+            {/* Logo */}
+            <div className='logo'>Savchuk</div>
+
             {/* Nav */}
             <nav className={active ? "nav active" : 'nav'}>
                 <ul className="nav__list">
-
+                    
                     {/* Nav Links */}
                     {navLinks.map((navLink, index) => {
                         return (

@@ -25,6 +25,12 @@ body.hiden {
     padding: 0px 40px;
 }
 
+
+.logo {
+    font-size: 30px;
+    display: none;
+}
+
 .title {
     font-size: 48px;
     font-weight: 700;
@@ -88,4 +94,22 @@ body.hiden {
     &:hover span {
         transform: translate(5px);
     }
+}
+
+// Scroll
+* {
+    scrollbar-width: thin;
+    scrollbar-color: $dark-color;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: $dod-color;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: $dark-color;
 }
