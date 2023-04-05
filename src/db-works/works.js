@@ -97,6 +97,13 @@ const works = [
         url: 'https://vadim-savchuk.github.io/correct-Landing/',
         type: 'layout'
     },
+    {
+        id: 15,
+        name: 'Landing page',
+        img: 'https://i.ibb.co/CJqdZLw/2023-04-05-204519-1.jpg',
+        url: 'https://vadim-savchuk.github.io/demoPage2/',
+        type: 'layout'
+    },
 ]
 
 export default works;
