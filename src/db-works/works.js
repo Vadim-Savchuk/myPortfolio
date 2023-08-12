@@ -29,9 +29,9 @@ const works = [
     },
     {
         id: 5,
-        name: 'Lord Of The Rings',
-        img: 'https://i.ibb.co/1GcqwrF/s.jpg',
-        url: 'https://vadim-savchuk.github.io/LordOfTheRings_React/',
+        name: 'Greeting',
+        img: 'https://i.ibb.co/XtrLdYd/image.jpg',
+        url: 'https://vadim-savchuk.github.io/greeting/',
         type: 'react'
     },
     {
@@ -57,10 +57,10 @@ const works = [
     },
     {
         id: 9,
-        name: 'Generator Poems',
-        img: 'https://i.ibb.co/Xz7H74m/poems.jpg',
-        url: 'https://vadim-savchuk.github.io/generatorPoems/',
-        type: 'java script'
+        name: 'Predictions For The Day',
+        img: 'https://i.ibb.co/hRMXsYM/image.jpg',
+        url: 'https://vadim-savchuk.github.io/predictionsForTheDay/',
+        type: 'react'
     },
     {
         id: 10,
@@ -85,10 +85,10 @@ const works = [
     },
     {
         id: 13,
-        name: 'Clock',
-        img: 'https://i.ibb.co/pzjgGH0/clock.jpg',
-        url: 'https://vadim-savchuk.github.io/clock/',
-        type: 'java script'
+        name: 'Today is a holiday in Ukraine',
+        img: 'https://i.ibb.co/gzBjCVz/234.jpg',
+        url: 'https://vadim-savchuk.github.io/todaysHolidaysInUkraine/',
+        type: 'react'
     },
     {
         id: 14,
@@ -103,6 +103,20 @@ const works = [
         img: 'https://i.ibb.co/CJqdZLw/2023-04-05-204519-1.jpg',
         url: 'https://vadim-savchuk.github.io/demoPage2/',
         type: 'layout'
+    },
+    {
+        id: 16,
+        name: 'Practice Site',
+        img: 'https://i.ibb.co/h2Rg7v2/asd.jpg',
+        url: 'https://vadim-savchuk.github.io/practiceSite/',
+        type: 'react'
+    },
+    {
+        id: 17,
+        name: 'Serialis',
+        img: 'https://i.ibb.co/w4SFwzP/asdsa.jpg',
+        url: 'https://vadim-savchuk.github.io/mySerialsPetProject-frontend/',
+        type: 'react'
     },
 ]
 
