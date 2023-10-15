@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.c4ae1649.css",
-    "main.js": "/myPortfolio/static/js/main.0e6181f4.js",
+    "main.css": "/myPortfolio/static/css/main.75052c17.css",
+    "main.js": "/myPortfolio/static/js/main.fc06360f.js",
     "static/media/baner.webp": "/myPortfolio/static/media/baner.c07511e7098f6b31f7fd.webp",
-    "static/media/lnd1.jpg": "/myPortfolio/static/media/lnd1.172afeda297b1b9b9395.jpg",
+    "static/media/nodejs.png": "/myPortfolio/static/media/nodejs.a4dc7b5b11fc0a60d60e.png",
     "static/media/redux.png": "/myPortfolio/static/media/redux.7cd500a8a22ebe979ca3.png",
-    "static/media/lnd3.jpg": "/myPortfolio/static/media/lnd3.720b1b7ddc5c434e3c94.jpg",
-    "static/media/lnd2.jpg": "/myPortfolio/static/media/lnd2.210d1fbdadda1ea8adbf.jpg",
     "static/media/react.png": "/myPortfolio/static/media/react.f871d3502aea24420ba3.png",
     "static/media/sass.png": "/myPortfolio/static/media/sass.b17f9a004e8540db9661.png",
     "static/media/dark-star.svg": "/myPortfolio/static/media/dark-star.f31101d112aa4550be3a599087c877e0.svg",
     "static/media/light-star.svg": "/myPortfolio/static/media/light-star.0eb581330572d6b9a2b534957438c252.svg",
     "index.html": "/myPortfolio/index.html",
-    "main.c4ae1649.css.map": "/myPortfolio/static/css/main.c4ae1649.css.map",
-    "main.0e6181f4.js.map": "/myPortfolio/static/js/main.0e6181f4.js.map"
+    "main.75052c17.css.map": "/myPortfolio/static/css/main.75052c17.css.map",
+    "main.fc06360f.js.map": "/myPortfolio/static/js/main.fc06360f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4ae1649.css",
-    "static/js/main.0e6181f4.js"
+    "static/css/main.75052c17.css",
+    "static/js/main.fc06360f.js"
   ]
 }
